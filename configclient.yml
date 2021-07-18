@@ -6,6 +6,6 @@ server:
 rabbitmq:
   host: 192.168.181.10
   port: 5672
-  username: ems
-  password: ems
-  virtual-host: /ems
+  username: bus
+  password: bus
+  virtual-host: /bus
