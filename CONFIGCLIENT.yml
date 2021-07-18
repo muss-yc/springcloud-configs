@@ -1,0 +1,5 @@
+spring:
+  application:
+      name: CONFIGCLIENT
+server:
+  port: 8888  
